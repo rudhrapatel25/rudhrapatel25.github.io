@@ -18,7 +18,7 @@
 
 .sidebar {
     position: sticky;
-    top: 0px;
+    top: 30px;
     height: calc(120vh - 200px);
 }
 
@@ -331,4 +331,5 @@
 .reveal.active {
     transform: translateY(0);
 }
+
 
