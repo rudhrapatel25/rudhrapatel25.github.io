@@ -41,7 +41,7 @@
   background-position: center;
   margin-left: -65px;
   margin-top: 0px;
-  transform: scale(1.7);
+  transform: scale(2.2);
 }
 
 .profile-media{
@@ -320,4 +320,5 @@
 .below-about {
     margin-bottom: 150px;
     margin-top: 180px;
+
 }
